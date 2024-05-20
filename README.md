@@ -12,7 +12,7 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-C. Shi, D. Liao and L. Wang, "Hyperspectral Image Classification Based on Expansion Convolution Network," in IEEE Trans. on Geoscience and Remote Sensing, vol. 60, pp. 1-16, 2022.
+Diling Liao, Cuiping Shi and Liguo Wang ,"A complementary integrated Transformer network for hyperspectral image classification." in CAAI Transactions on Intelligence Technology. Volume8, Issue4, p1288-1307, 2023.
     
 System-specific notes
 ---------------------
